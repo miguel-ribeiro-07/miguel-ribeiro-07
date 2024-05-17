@@ -1,4 +1,5 @@
-### Olá! Tudo bem 😁?
+### Olá! 👋 👋 👋 
+Tudo bem?
 
 
 Meu nome é **Miguel Ribeiro** tenho 23 anos e sou estudante de Programação Web e estou me formando em Análise e Desenvolvimento de Sistemas pela Fatec Franca e buscando uma oportunidade de ingressar no mercado de desenvolvimento.
