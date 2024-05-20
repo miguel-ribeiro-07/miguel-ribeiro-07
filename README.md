@@ -8,7 +8,7 @@ Meu nome é **Miguel Ribeiro** tenho 23 anos e sou estudante de Programação vo
 - 🤝 Busco oportunidades como Trainee, Estagiário ou Desenvolvedor Junior
 - 💬 Sempre aberto a qualquer contribuição e feedback em meus projetos
 
-**Principais tecnologias que conheço atualmente:**
+**Principais tecnologias que trablho atualmente:**
 <div>
   <img align="center" alt="Miguel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Miguel-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
