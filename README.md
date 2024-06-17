@@ -11,7 +11,6 @@ Meu nome é **Miguel Ribeiro** tenho 23 anos e sou estudante de Programação vo
 **Principais tecnologias que trabalho atualmente:**
 <div>
   <div>
-    **Linguagens e frameworks**
   <img align="center" alt="Miguel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Miguel-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
