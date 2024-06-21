@@ -4,7 +4,7 @@ Tudo bem?
 
 Meu nome é **Miguel Ribeiro** tenho 23 anos e sou estudante de Programação voltado para desenvolvimento Web e estou me formando em Análise e Desenvolvimento de Sistemas pela Fatec Franca e buscando uma oportunidade de ingressar no mercado de desenvolvimento.
 
-- 📖 Atualmente estou aprendendo me aprofundando em banco de dados e Typescript
+- 📖 Atualmente estou aprendendo me aprofundando em banco de dados, Typescript e Git
 - 🤝 Busco oportunidades como Trainee, Estagiário ou Desenvolvedor Junior
 - 💬 Sempre aberto a qualquer contribuição e feedback em meus projetos
 
