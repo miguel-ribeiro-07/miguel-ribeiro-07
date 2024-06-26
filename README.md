@@ -29,6 +29,7 @@ Meu nome é **Miguel Ribeiro** tenho 23 anos e sou estudante de Programação vo
 <div>
   <img align="center" alt="Miguel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+
   ##
   
 <div>
