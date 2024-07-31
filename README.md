@@ -2,9 +2,9 @@
 Tudo bem?
 
 
-Meu nome é **Miguel Ribeiro** estou me formando em Análise e Desenvolvimento de Sistemas pela Fatec Franca e buscando uma oportunidade de ingressar no mercado de desenvolvimento.
+Meu nome é **Miguel Ribeiro**, sou formado pela Fatec Franca em Análise e Desenvolvimento de Sistemas.
 
-- 📖 Atualmente estou aprendendo me aprofundando nos conceitos Core de Node.JS, como Buffers, HTTP e Unix
+- 📖 Atualmente estou praticando Java rumo a minha primeira vaga de estágio
 - 🤝 Busco oportunidades como Trainee, Estagiário ou Desenvolvedor Junior
 
 **Stack back e front-end:**
