@@ -7,7 +7,7 @@ Meu nome é **Miguel Ribeiro**, sou desenvolvedor Backend NodeJS cursando Análi
 - 📖 Atualmente estou praticando Java rumo a minha primeira vaga de estágio
 - 🤝 Busco oportunidades como Trainee, Estagiário ou Desenvolvedor Junior
 
-**Stack back e front-end:**
+**Stack de desenvolvimento:**
 <div>
   <img align="center" alt="Miguel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Miguel-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -15,20 +15,15 @@ Meu nome é **Miguel Ribeiro**, sou desenvolvedor Backend NodeJS cursando Análi
   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Miguel-Mui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
+  <img align="center" alt="Miguel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-**Stack de databases:**
+**Databases knowledge:**
   <div>
   <img align="center" alt="Miguel-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Miguel-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Miguel-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   </div>
-
-**Versionamento:**
-<div>
-  <img align="center" alt="Miguel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-
   ##
   
 <div>
