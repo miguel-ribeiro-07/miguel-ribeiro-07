@@ -2,7 +2,7 @@
 Tudo bem?
 
 
-Meu nome é **Miguel Ribeiro**, sou desenvolvedor Backend NodeJS cursando Análise e Desenvolvimento de Sistemas pela Fatec Franca.
+Meu nome é **Miguel Ribeiro**, sou desenvolvedor Backend NodeJS formado em Análise e Desenvolvimento de Sistemas pela Fatec Franca.
 
 - 📖 Atualmente estou praticando Java rumo a minha primeira vaga de estágio
 - 🤝 Busco oportunidades como Trainee, Estagiário ou Desenvolvedor Junior
